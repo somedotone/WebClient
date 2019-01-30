@@ -3,4 +3,4 @@ Initial thoughts about a web client for the IdentityVerification contract. It's 
 
 ## Mockup Demonstration
 
-[![](https://img.youtube.com/vi/2oeWEedo1gc/0.jpg)](https://www.youtube.com/watch?v=2oeWEedo1gc)
+[![](https://img.youtube.com/vi/2oeWEedo1gc/1.jpg)](https://www.youtube.com/watch?v=2oeWEedo1gc)
